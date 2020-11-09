@@ -21,7 +21,7 @@ public class Triangle {
         this.base = base;
         this.height = height;
     }
-    //this is a test comment
+    
 /**
  * This function returns the area of ​​the triangle
  * @return 
