@@ -14,7 +14,7 @@ import java.util.Scanner;
  * @version 1.0
  */
 public class Main {
-
+    //Este comentario es una prueba
     /**
      * @param args the command line arguments
      */
