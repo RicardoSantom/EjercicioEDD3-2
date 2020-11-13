@@ -44,7 +44,7 @@ public class Main {
         Cone.setHeight(scanner.nextFloat());
         scanner=new Scanner(System.in);
         System.out.println("Cual es el alto del cono: ");
-        Cone.setRadio(scanner.nextFloat());
+        Cone.setRadio(scanner.nextFloat())
         System.out.println("El volumen del cono es "+Cone.calculateVolume());
     }
 
