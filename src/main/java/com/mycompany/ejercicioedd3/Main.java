@@ -38,6 +38,14 @@ public class Main {
         
         Triangle fixedTriangle = new Triangle(fixedBase, fixedHeight);
         System.out.println("El area del triangulo fijado es " + fixedTriangle.calculateArea());
+        Cone Cone= new Cone();
+        scanner=new Scanner(System.in);
+        System.out.println("Cual es el radio del cono: ");
+        Cone.setHeight(scanner.nextFloat());
+        scanner=new Scanner(System.in);
+        System.out.println("Cual es el alto del cono: ");
+        Cone.setRadio(scanner.nextFloat());
+        System.out.println("El volumen del cono es "+Cone.calculateVolume());
     }
 
 }
