@@ -8,6 +8,8 @@ package com.mycompany.ejercicioedd3;
 /**
  * This function returns the area of a cone 
  * @author David Aparicio Sir
+ * @version Ricardo Santiago Tomé
+ * @since 19/11/2020
  */
 public class Cone {
     //Here I'm going to define 2 variables that are radio and height
